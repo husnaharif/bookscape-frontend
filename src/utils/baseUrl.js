@@ -1,5 +1,5 @@
 const getBaseUrl = () => {
-    return "http://bookscape-backend.vercel.app"
+    return "https://bookscape-backend.vercel.app"
 }
 
 export default getBaseUrl
